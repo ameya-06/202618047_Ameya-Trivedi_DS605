@@ -6,6 +6,8 @@ This project implements an end-to-end Machine Learning workflow for predicting t
 
 The project covers data analysis and preparation, regression model training and evaluation, hyperparameter tuning, and deployment of the final model through a Streamlit web application.
 
+**Live Application:** [Airbnb Price Predictor](https://airbnb-price-predictor-ameya.streamlit.app/)
+
 ## Task 1 – Data Analysis and Preparation
 
 - Loaded and analyzed the Airbnb NYC 2019 dataset.
